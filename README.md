@@ -8,6 +8,8 @@ With this package, you can encrypt and decrypt files of any size in your Laravel
 
 ## Fork
 
+I forked this package from [brainstudnl/file-vault](https://github.com/brainstudnl/file-vault) to add Laravel 10 support.
+
 This package is forked from [soarecostin/file-vault](https://github.com/soarecostin/file-vault) to add Laravel 9 support. 
 
 ## Installation and usage
